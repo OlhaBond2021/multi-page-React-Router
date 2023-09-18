@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-page-React-Router/static/css/main.216a11e2.css",
+    "main.js": "/multi-page-React-Router/static/js/main.e40c0d0d.js",
+    "index.html": "/multi-page-React-Router/index.html",
+    "main.216a11e2.css.map": "/multi-page-React-Router/static/css/main.216a11e2.css.map",
+    "main.e40c0d0d.js.map": "/multi-page-React-Router/static/js/main.e40c0d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216a11e2.css",
+    "static/js/main.e40c0d0d.js"
+  ]
+}
